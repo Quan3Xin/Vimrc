@@ -6,5 +6,6 @@
 * Install Plugin...
 * Install ycm need cmake & clang, make sure you have it. 
 * Input this command.
-``` cd ~/.vim/YouCompleteMe/ && python3 install.py --clang-completer 
+``` 
+cd ~/.vim/YouCompleteMe/ && python3 install.py --clang-completer 
 ``` 
