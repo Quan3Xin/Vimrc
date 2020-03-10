@@ -2,4 +2,5 @@
 ## How to use that
 * you need to copy Vundle Plugin manger to you local space.
 * copy the vimrc to user directory change name as .vimrc.
+* git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 * Install Plugin...
