@@ -46,10 +46,7 @@ flags = [
     '/usr/include/c++/4.2.1',
     '-isystem',
     '/usr/local/include',
-    '-isystem',
-    '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/c++/v1',
-    '-isystem',
-    '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include',
+
 ]
 
 # Set this to the absolute path to the folder (NOT the file!) containing the
